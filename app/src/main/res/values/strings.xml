@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class_Project</string>
+    <string name="App_title">This is my App</string>
+    <string name="Click">Click to login</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="Submit">Next</string>
+</resources>
